@@ -12,6 +12,9 @@ SDR Project for CSE493W
 - [Tips](#tips)
 - [Future Work](#future-work)
 
+## Video Demo
+[Video Demo](https://youtu.be/iFGZvq8biZY)
+
 ## Goal of RFDecScribe
 The goal of this project is to decode an RF microphone and to transcribe the audio output. Possible uses and applications are synchronous or asynchronous transcription of radio stations and/or class lectures where audio can be transcribed. For the scope of this project, the goals were:
 - Decode RF microphone signal
@@ -77,7 +80,7 @@ There are several avenues for future work and enhancements that can be explored:
 
 **User Interface Refinements:** The command-line interface provided flexibility for parameter customization, but developing a more user-friendly graphical user interface (GUI) could enhance the system's usability. 
 
-I**ntegration with Online/Classroom Platforms:** Consider integrating the system with popular online platforms or conferencing tools. This would allow for direct streaming of the transcribed audio, making it easier to participate in remote meetings, webinars, or online classes with real-time captions or transcriptions (though this I think has already been achieved but would be cool to replicate).
+**Integration with Online/Classroom Platforms:** Consider integrating the system with popular online platforms or conferencing tools. This would allow for direct streaming of the transcribed audio, making it easier to participate in remote meetings, webinars, or online classes with real-time captions or transcriptions (though this I think has already been achieved but would be cool to replicate).
 
 **Compatibility with Multiple RF Microphones:** Testing to see whether the system is compatible with a number of different RF microphones.
 Optimization for Real-Time Performance: Optimize the code to make signal processing, decoding, and transcription more efficient.
